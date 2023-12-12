@@ -23,8 +23,8 @@ ob_start();
 <?php
 $body = ob_get_contents();
 
-$to = 'your@mail.com';
-$toname = 'Your Name';
+$to = 'akillika49@gmail.com@mail.com';
+$toname = 'Akil S';
 //$anotheraddress = 'email@example.com';
 //$anothername = 'Another Name';
 
